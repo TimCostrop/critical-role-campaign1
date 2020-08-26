@@ -1,41 +1,1529 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
-    <channel>
-        <link>https://critrole.com</link>
-        <language>en-us</language>
-        <copyright><![CDATA[Critical Role]]></copyright>
-        <image>
-            <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg</url>
-            <title>Critical Role</title>
-            <link>https://critrole.com</link>
-        </image>
-        <itunes:owner>
-            <itunes:name>Critical Role</itunes:name>
-            <itunes:email>info@critrole.com</itunes:email>
-        </itunes:owner>
-        <itunes:category text="Leisure">
-            <itunes:category text="Games"/>
-        </itunes:category>
-        <itunes:explicit>Yes</itunes:explicit>
-        <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg"/>
-        <atom:link href="http://www.YourSite.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
-        <title>Verbose title of the podcast</title>
-        <itunes:author>Critical Role</itunes:author>
-        <description>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons &amp;amp; Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</description>
-        <itunes:summary>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons &amp;amp; Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</itunes:summary>
-        <itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
-        <lastBuildDate>Wed, 26 Aug 2020 20:13:48 GMT</lastBuildDate>
-        <item>
-            <title>Verbose title of the episode</title>
-            <description>Verbose description of the episode.</description>
-            <itunes:summary>Duplicate of above verbose description.</itunes:summary>
-            <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure url="http://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
-            <guid>http://www.YourSite.com/FILE.EXT</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<link>https://critrole.com</link>
+		<language>en-us</language>
+		<copyright>Critical Role</copyright>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg
+			</url>
+			<title>Critical Role</title>
+			<link>https://critrole.com</link>
+		</image>
+		<owner>
+			<itunes:name>Critical Role</itunes:name>
+			<itunes:email>info@critrole.com</itunes:email>
+		</owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<image
+			href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg"/>
+		<atom:link href="https://raw.githubusercontent.com/TimCostrop/critical-role-campaign1/master/feed.xml"
+				   rel="self" type="application/rss+xml"/>
+		<pubDate>Wed, 26 Aug 2020 20:16:48 GMT</pubDate>
+		<title>Critical Role</title>
+		<itunes:author>Critical Role</itunes:author>
+		<itunes:summary>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons
+			&amp;amp; Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each
+			week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a
+			deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show,
+			right here on Critical Role.
+		</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<lastBuildDate>Wed, 26 Aug 2020 20:16:48 GMT</lastBuildDate>
+		<item>
+			<title>Vox Machina EP 1 &amp;#8211; Arrival at Kraghammer</title>
+			<description>Vox Machina EP 1 &amp;#8211; Arrival at Kraghammer</description>
+			<guid>7298aa1e-7a1b-4091-95fa-aafdf1697082</guid>
+			<pubDate>Thu, 12 Mar 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/001_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 1 &amp;#8211; Arrival at Kraghammer</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14162</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 2 &amp;#8211; Into the Greyspine Mines</title>
+			<description>Vox Machina EP 2 &amp;#8211; Into the Greyspine Mines</description>
+			<guid>26288f53-1f9b-4cb4-a598-0915e12d66ed</guid>
+			<pubDate>Thu, 19 Mar 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/002_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 2 &amp;#8211; Into the Greyspine Mines</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11980</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 3 &amp;#8211; Strange Bedfellows</title>
+			<description>Vox Machina EP 3 &amp;#8211; Strange Bedfellows</description>
+			<guid>cb39da43-34f8-4325-98f6-9bbb3ac1eaa6</guid>
+			<pubDate>Thu, 26 Mar 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/003_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 3 &amp;#8211; Strange Bedfellows</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>9376</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 4 &amp;#8211; Attack on the Duergar Warcamp</title>
+			<description>Vox Machina EP 4 &amp;#8211; Attack on the Duergar Warcamp</description>
+			<guid>d7461bb2-aa93-4450-9eb2-016af22ea883</guid>
+			<pubDate>Thu, 2 Apr 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/004_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 4 &amp;#8211; Attack on the Duergar Warcamp</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16962</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 5 &amp;#8211; The Trick About Falling</title>
+			<description>Vox Machina EP 5 &amp;#8211; The Trick About Falling</description>
+			<guid>eea445ca-5ed7-4837-a4db-de0b9d845378</guid>
+			<pubDate>Thu, 9 Apr 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/005_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 5 &amp;#8211; The Trick About Falling</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11381</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 6 &amp;#8211; Breaching the Emberhold</title>
+			<description>Vox Machina EP 6 &amp;#8211; Breaching the Emberhold</description>
+			<guid>544a2b4e-7e51-490b-bfc3-cde2a3839083</guid>
+			<pubDate>Thu, 16 Apr 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/006_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 6 &amp;#8211; Breaching the Emberhold</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10620</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 7 &amp;#8211; The Throne Room</title>
+			<description>Vox Machina EP 7 &amp;#8211; The Throne Room</description>
+			<guid>d31019c0-2f27-4617-b949-1ebe5b56e20b</guid>
+			<pubDate>Thu, 23 Apr 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/007_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 7 &amp;#8211; The Throne Room</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14321</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 8 &amp;#8211; Glass and Bone</title>
+			<description>Vox Machina EP 8 &amp;#8211; Glass and Bone</description>
+			<guid>b7c8cfe5-a8da-4f09-8bf6-1987ae01aa6a</guid>
+			<pubDate>Thu, 30 Apr 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/008_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 8 &amp;#8211; Glass and Bone</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10885</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 9 &amp;#8211; Yug&amp;#8217;voril Uncovered</title>
+			<description>Vox Machina EP 9 &amp;#8211; Yug&amp;#8217;voril Uncovered</description>
+			<guid>fa086b73-98cc-4894-8139-455e7f0e098b</guid>
+			<pubDate>Thu, 7 May 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/009_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 9 &amp;#8211; Yug&amp;#8217;voril Uncovered</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11152</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 10 &amp;#8211; K&amp;#8217;Varn Revealed</title>
+			<description>Vox Machina EP 10 &amp;#8211; K&amp;#8217;Varn Revealed</description>
+			<guid>e1977b60-61f0-43b0-9f7b-10976206858b</guid>
+			<pubDate>Thu, 14 May 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/010_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 10 &amp;#8211; K&amp;#8217;Varn Revealed</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16714</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 11 &amp;#8211; The Temple Showdown</title>
+			<description>Vox Machina EP 11 &amp;#8211; The Temple Showdown</description>
+			<guid>fdb4b5dd-2571-4b49-a22f-5692f339006a</guid>
+			<pubDate>Thu, 21 May 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/011_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 11 &amp;#8211; The Temple Showdown</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>19954</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 12 &amp;#8211; Dungeons &amp;amp; Dragons Campaign Tips</title>
+			<description>Vox Machina EP 12 &amp;#8211; Dungeons &amp;amp; Dragons Campaign Tips</description>
+			<guid>359dc505-c610-4c60-bc3a-ef1dc40ec912</guid>
+			<pubDate>Thu, 28 May 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/012_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 12 &amp;#8211; Dungeons &amp;amp; Dragons Campaign Tips</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13029</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 13 &amp;#8211; Escape from the Underdark</title>
+			<description>Vox Machina EP 13 &amp;#8211; Escape from the Underdark</description>
+			<guid>1ca9d528-dce7-42d5-8506-0c6ecf252184</guid>
+			<pubDate>Thu, 4 Jun 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/013_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 13 &amp;#8211; Escape from the Underdark</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12517</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 14 &amp;#8211; Shopping and Shipping</title>
+			<description>Vox Machina EP 14 &amp;#8211; Shopping and Shipping</description>
+			<guid>2556d33f-1764-4373-a9a8-c2e337f88d57</guid>
+			<pubDate>Thu, 11 Jun 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/014_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 14 &amp;#8211; Shopping and Shipping</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12074</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 15 &amp;#8211; Skyward</title>
+			<description>Vox Machina EP 15 &amp;#8211; Skyward</description>
+			<guid>24307b0f-cbff-48aa-ba9e-70540f0507cb</guid>
+			<pubDate>Thu, 25 Jun 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/015_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 15 &amp;#8211; Skyward</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14941</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 16 &amp;#8211; Enter Vasselheim</title>
+			<description>Vox Machina EP 16 &amp;#8211; Enter Vasselheim</description>
+			<guid>95c9a08d-6e99-44c5-af0a-84679b7ae512</guid>
+			<pubDate>Thu, 2 Jul 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/016_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 16 &amp;#8211; Enter Vasselheim</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10658</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 17 &amp;#8211; Hubris</title>
+			<description>Vox Machina EP 17 &amp;#8211; Hubris</description>
+			<guid>9066b542-4b8e-44cb-b477-a6ce7b95386a</guid>
+			<pubDate>Thu, 23 Jul 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/017_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 17 &amp;#8211; Hubris</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14743</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 18 &amp;#8211; Trial of the Take</title>
+			<description>Vox Machina EP 18 &amp;#8211; Trial of the Take</description>
+			<guid>72233283-3705-4dad-8f0b-119a13d0c4f1</guid>
+			<pubDate>Thu, 30 Jul 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/018_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 18 &amp;#8211; Trial of the Take</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10919</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 19 &amp;#8211; Trial of the Take Pt 2</title>
+			<description>Vox Machina EP 19 &amp;#8211; Trial of the Take Pt 2</description>
+			<guid>70b83c66-997a-4a39-a201-adf837371f63</guid>
+			<pubDate>Thu, 6 Aug 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/019_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 19 &amp;#8211; Trial of the Take Pt 2</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16984</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 20 &amp;#8211; Trial of the Take Pt 3</title>
+			<description>Vox Machina EP 20 &amp;#8211; Trial of the Take Pt 3</description>
+			<guid>a9ba7e8d-9b91-4dce-87b3-abd9b4801d32</guid>
+			<pubDate>Thu, 13 Aug 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/020_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 20 &amp;#8211; Trial of the Take Pt 3</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11684</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 21 &amp;#8211; Trial of the Take Pt 4</title>
+			<description>Vox Machina EP 21 &amp;#8211; Trial of the Take Pt 4</description>
+			<guid>b3a97ca4-c90f-4657-913f-51c3e6180559</guid>
+			<pubDate>Thu, 20 Aug 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/021_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 21 &amp;#8211; Trial of the Take Pt 4</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17059</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 22 &amp;#8211; AraMente to Pyrah</title>
+			<description>Vox Machina EP 22 &amp;#8211; AraMente to Pyrah</description>
+			<guid>6da46bc9-4e56-44cb-ab6d-04c6f64dacc0</guid>
+			<pubDate>Thu, 27 Aug 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/022_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 22 &amp;#8211; AraMente to Pyrah</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16827</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 23 &amp;#8211; The Rematch</title>
+			<description>Vox Machina EP 23 &amp;#8211; The Rematch</description>
+			<guid>05fb6573-4916-4ce5-85a6-af85ee8fb233</guid>
+			<pubDate>Thu, 10 Sep 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/023_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 23 &amp;#8211; The Rematch</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13936</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 24 &amp;#8211; The Feast</title>
+			<description>Vox Machina EP 24 &amp;#8211; The Feast</description>
+			<guid>caa94432-e9dd-409a-9a24-eff6c8c3ee62</guid>
+			<pubDate>Thu, 17 Sep 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/024_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 24 &amp;#8211; The Feast</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14162</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 25 &amp;#8211; Crimson Diplomacy</title>
+			<description>Vox Machina EP 25 &amp;#8211; Crimson Diplomacy</description>
+			<guid>256cfe1c-230d-4ff8-bf2c-09e5d1f53781</guid>
+			<pubDate>Thu, 24 Sep 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/025_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 25 &amp;#8211; Crimson Diplomacy</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13632</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 26 &amp;#8211; Consequences and Cows</title>
+			<description>Vox Machina EP 26 &amp;#8211; Consequences and Cows</description>
+			<guid>e2a8550c-d084-4cb0-aa37-d4ace4d27abf</guid>
+			<pubDate>Thu, 1 Oct 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/026_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 26 &amp;#8211; Consequences and Cows</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16878</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 27 &amp;#8211; The Path to Whitestone</title>
+			<description>Vox Machina EP 27 &amp;#8211; The Path to Whitestone</description>
+			<guid>bbac3b5b-e9c9-4416-abb6-608c4e4d3722</guid>
+			<pubDate>Thu, 8 Oct 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/027_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 27 &amp;#8211; The Path to Whitestone</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12840</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 28 &amp;#8211; The Sun Tree</title>
+			<description>Vox Machina EP 28 &amp;#8211; The Sun Tree</description>
+			<guid>f8ee40e3-a88d-4ae9-a9ac-32ef142c43bb</guid>
+			<pubDate>Thu, 15 Oct 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/028_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 28 &amp;#8211; The Sun Tree</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11280</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 29 &amp;#8211; Whispers</title>
+			<description>Vox Machina EP 29 &amp;#8211; Whispers</description>
+			<guid>c26b219c-476b-42dc-a2dd-143722d2de86</guid>
+			<pubDate>Thu, 22 Oct 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/029_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 29 &amp;#8211; Whispers</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14640</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 30 &amp;#8211; Stoke the Flames</title>
+			<description>Vox Machina EP 30 &amp;#8211; Stoke the Flames</description>
+			<guid>59991fef-bf29-400e-82c5-4f3cdf89ad64</guid>
+			<pubDate>Thu, 29 Oct 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/030_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 30 &amp;#8211; Stoke the Flames</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11700</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 31 &amp;#8211; Gunpowder Plot</title>
+			<description>Vox Machina EP 31 &amp;#8211; Gunpowder Plot</description>
+			<guid>27014034-3c23-4f46-bfab-f20d74089879</guid>
+			<pubDate>Thu, 5 Nov 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/031_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 31 &amp;#8211; Gunpowder Plot</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11757</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 32 &amp;#8211; Against the Tide of Bone</title>
+			<description>Vox Machina EP 32 &amp;#8211; Against the Tide of Bone</description>
+			<guid>90bf3e54-ce42-4e20-b2eb-44a4ed0a16e1</guid>
+			<pubDate>Thu, 12 Nov 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/032_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 32 &amp;#8211; Against the Tide of Bone</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>32</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12989</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 33 &amp;#8211; Reunions</title>
+			<description>Vox Machina EP 33 &amp;#8211; Reunions</description>
+			<guid>ab9f71b6-003c-40c0-afac-fa913c4a95a0</guid>
+			<pubDate>Thu, 19 Nov 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/033_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 33 &amp;#8211; Reunions</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15862</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 34 &amp;#8211; Race to the Ziggurat</title>
+			<description>Vox Machina EP 34 &amp;#8211; Race to the Ziggurat</description>
+			<guid>9e47aac0-ad85-4296-aae2-ce9461615232</guid>
+			<pubDate>Thu, 3 Dec 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/034_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 34 &amp;#8211; Race to the Ziggurat</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16893</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 35 &amp;#8211; Denoument</title>
+			<description>Vox Machina EP 35 &amp;#8211; Denoument</description>
+			<guid>773c90de-c88d-40d4-b68c-3884ad6b656c</guid>
+			<pubDate>Thu, 10 Dec 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/035_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 35 &amp;#8211; Denoument</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11696</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 36 &amp;#8211; Winter&amp;#8217;s Crest in Whitestone</title>
+			<description>Vox Machina EP 36 &amp;#8211; Winter&amp;#8217;s Crest in Whitestone</description>
+			<guid>c1afb066-3b03-45cf-86fd-bd587533e497</guid>
+			<pubDate>Thu, 17 Dec 2015 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/036_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 36 &amp;#8211; Winter&amp;#8217;s Crest in Whitestone</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10104</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 37 &amp;#8211; A Musician&amp;#8217;s Nostalgia</title>
+			<description>Vox Machina EP 37 &amp;#8211; A Musician&amp;#8217;s Nostalgia</description>
+			<guid>e587f8b6-0de0-4a2c-8a49-4043637a63d0</guid>
+			<pubDate>Thu, 7 Jan 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/037_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 37 &amp;#8211; A Musician&amp;#8217;s Nostalgia</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15808</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 38 &amp;#8211; Echoes of the Past</title>
+			<description>Vox Machina EP 38 &amp;#8211; Echoes of the Past</description>
+			<guid>a9075958-783b-41a4-9b73-1ea6706b5bdd</guid>
+			<pubDate>Thu, 14 Jan 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/038_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 38 &amp;#8211; Echoes of the Past</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>38</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15716</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 39 &amp;#8211; Omens</title>
+			<description>Vox Machina EP 39 &amp;#8211; Omens</description>
+			<guid>54fff7a6-ba04-4941-ade7-8833367e3e33</guid>
+			<pubDate>Thu, 21 Jan 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/039_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 39 &amp;#8211; Omens</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14151</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 40 &amp;#8211; Desperate Measures</title>
+			<description>Vox Machina EP 40 &amp;#8211; Desperate Measures</description>
+			<guid>44bbfba8-f04f-47c1-97f3-14d260b0a5c1</guid>
+			<pubDate>Thu, 28 Jan 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/040_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 40 &amp;#8211; Desperate Measures</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10907</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 41 &amp;#8211; In Ruins</title>
+			<description>Vox Machina EP 41 &amp;#8211; In Ruins</description>
+			<guid>b3d14a53-b56b-467d-9c58-1e296ba151d7</guid>
+			<pubDate>Thu, 4 Feb 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/041_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 41 &amp;#8211; In Ruins</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16361</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 42 &amp;#8211; Dangerous Dealings</title>
+			<description>Vox Machina EP 42 &amp;#8211; Dangerous Dealings</description>
+			<guid>92cfbf69-7ab8-4781-b90d-f27f55c9008a</guid>
+			<pubDate>Thu, 11 Feb 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/042_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 42 &amp;#8211; Dangerous Dealings</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13130</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 43 &amp;#8211; Return to Vasselheim</title>
+			<description>Vox Machina EP 43 &amp;#8211; Return to Vasselheim</description>
+			<guid>9ae814d2-40e6-4fb7-9ae1-cc49c6764932</guid>
+			<pubDate>Thu, 18 Feb 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/043_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 43 &amp;#8211; Return to Vasselheim</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13473</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 44 &amp;#8211; The Sunken Tomb</title>
+			<description>Vox Machina EP 44 &amp;#8211; The Sunken Tomb</description>
+			<guid>6f469e62-b067-4dd0-88be-a0ae5b32ef5b</guid>
+			<pubDate>Thu, 10 Mar 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/044_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 44 &amp;#8211; The Sunken Tomb</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17726</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 45 &amp;#8211; Those Who Walk Away</title>
+			<description>Vox Machina EP 45 &amp;#8211; Those Who Walk Away</description>
+			<guid>35600928-48c9-4be9-b3bb-88efdf7f4320</guid>
+			<pubDate>Thu, 17 Mar 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/045_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 45 &amp;#8211; Those Who Walk Away</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11004</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 46 &amp;#8211; Cindergrove Revisited</title>
+			<description>Vox Machina EP 46 &amp;#8211; Cindergrove Revisited</description>
+			<guid>8c72ddad-0e9b-447c-9fc9-ef44ad7f2fb4</guid>
+			<pubDate>Thu, 24 Mar 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/046_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 46 &amp;#8211; Cindergrove Revisited</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12183</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 47 &amp;#8211; The Family Business</title>
+			<description>Vox Machina EP 47 &amp;#8211; The Family Business</description>
+			<guid>a7d9244e-298d-4dad-9c89-3abaa1433bca</guid>
+			<pubDate>Thu, 31 Mar 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/047_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 47 &amp;#8211; The Family Business</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10833</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 48 &amp;#8211; Into the Frostweald</title>
+			<description>Vox Machina EP 48 &amp;#8211; Into the Frostweald</description>
+			<guid>6d9b87e1-f153-438f-b8be-3a46074a377d</guid>
+			<pubDate>Thu, 7 Apr 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/048_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 48 &amp;#8211; Into the Frostweald</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12277</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 49 &amp;#8211; A Name Is Earned</title>
+			<description>Vox Machina EP 49 &amp;#8211; A Name Is Earned</description>
+			<guid>459008b2-dc32-4235-826e-af30d14f3e1c</guid>
+			<pubDate>Thu, 14 Apr 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/049_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 49 &amp;#8211; A Name Is Earned</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17492</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 50 &amp;#8211; Best Laid Plans&amp;#8230;</title>
+			<description>Vox Machina EP 50 &amp;#8211; Best Laid Plans&amp;#8230;</description>
+			<guid>58b36b10-4ae5-43a5-95f3-8a8675c8eee6</guid>
+			<pubDate>Thu, 21 Apr 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/050_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 50 &amp;#8211; Best Laid Plans&amp;#8230;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>50</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11100</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 51 &amp;#8211; Test of Pride</title>
+			<description>Vox Machina EP 51 &amp;#8211; Test of Pride</description>
+			<guid>da81457f-2e5a-4a68-aa4a-36aa84cb0119</guid>
+			<pubDate>Thu, 28 Apr 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/051_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 51 &amp;#8211; Test of Pride</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>51</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10465</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 52 &amp;#8211; The Kill Box</title>
+			<description>Vox Machina EP 52 &amp;#8211; The Kill Box</description>
+			<guid>77c0ea86-c07f-438e-b5e0-d9fb67695bfa</guid>
+			<pubDate>Thu, 5 May 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/052_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 52 &amp;#8211; The Kill Box</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>52</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11967</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 53 &amp;#8211; At Dawn, We Plan!</title>
+			<description>Vox Machina EP 53 &amp;#8211; At Dawn, We Plan!</description>
+			<guid>cb14f4c0-d70a-4d98-b151-9b08eec561c0</guid>
+			<pubDate>Thu, 12 May 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/053_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 53 &amp;#8211; At Dawn, We Plan!</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>53</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13056</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 54 &amp;#8211; In the Belly of the Beast</title>
+			<description>Vox Machina EP 54 &amp;#8211; In the Belly of the Beast</description>
+			<guid>3965d65a-fd2f-4224-83a7-7d096d9659b9</guid>
+			<pubDate>Thu, 19 May 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/054_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 54 &amp;#8211; In the Belly of the Beast</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>54</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16007</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 55 &amp;#8211; Umbrasyl</title>
+			<description>Vox Machina EP 55 &amp;#8211; Umbrasyl</description>
+			<guid>8c7d4a97-a1d9-4bb6-ae40-c4f4706f980d</guid>
+			<pubDate>Thu, 2 Jun 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/055_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 55 &amp;#8211; Umbrasyl</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>55</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15417</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 56 &amp;#8211; Hope</title>
+			<description>Vox Machina EP 56 &amp;#8211; Hope</description>
+			<guid>04dcf350-b3d7-4650-aece-ccd51385792e</guid>
+			<pubDate>Thu, 9 Jun 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/056_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 56 &amp;#8211; Hope</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>56</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13994</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 57 &amp;#8211; Duskmeadow</title>
+			<description>Vox Machina EP 57 &amp;#8211; Duskmeadow</description>
+			<guid>695bf3d9-6487-49a2-9f6e-6440f83df174</guid>
+			<pubDate>Thu, 16 Jun 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/057_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 57 &amp;#8211; Duskmeadow</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>57</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13552</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 58 &amp;#8211; A Cycle of Vengeance</title>
+			<description>Vox Machina EP 58 &amp;#8211; A Cycle of Vengeance</description>
+			<guid>2436e989-5b20-4dca-b3ed-b2e214531ea6</guid>
+			<pubDate>Thu, 23 Jun 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/058_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 58 &amp;#8211; A Cycle of Vengeance</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>58</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13371</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 59 &amp;#8211; The Feywild</title>
+			<description>Vox Machina EP 59 &amp;#8211; The Feywild</description>
+			<guid>6f205d94-7185-4448-90a6-291802b2e040</guid>
+			<pubDate>Thu, 7 Jul 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/059_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 59 &amp;#8211; The Feywild</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11313</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 60 &amp;#8211; Heredity and Hats</title>
+			<description>Vox Machina EP 60 &amp;#8211; Heredity and Hats</description>
+			<guid>e23938bf-0d32-477a-b9f9-052b44e40958</guid>
+			<pubDate>Thu, 14 Jul 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/060_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 60 &amp;#8211; Heredity and Hats</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>60</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>9755</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 61 &amp;#8211; Denizens of the Moonbrush</title>
+			<description>Vox Machina EP 61 &amp;#8211; Denizens of the Moonbrush</description>
+			<guid>25641fdc-48ed-44e6-9a80-366e5ba31dd2</guid>
+			<pubDate>Thu, 28 Jul 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/061_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 61 &amp;#8211; Denizens of the Moonbrush</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>61</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14481</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 62 &amp;#8211; Uninviting Waters</title>
+			<description>Vox Machina EP 62 &amp;#8211; Uninviting Waters</description>
+			<guid>1df74670-a355-4574-b4c3-f9688dcbf6e1</guid>
+			<pubDate>Sat, 6 Aug 2016 20:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/062_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 62 &amp;#8211; Uninviting Waters</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>62</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10780</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 63 &amp;#8211; The Echo Tree</title>
+			<description>Vox Machina EP 63 &amp;#8211; The Echo Tree</description>
+			<guid>65081d80-aafe-4f85-a5cd-8db421aca741</guid>
+			<pubDate>Thu, 11 Aug 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/063_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 63 &amp;#8211; The Echo Tree</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>63</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15014</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 64 &amp;#8211; The Frigid Doom</title>
+			<description>Vox Machina EP 64 &amp;#8211; The Frigid Doom</description>
+			<guid>1c3f2181-aa99-4121-bd3b-7ba4cfb78fd4</guid>
+			<pubDate>Thu, 18 Aug 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/064_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 64 &amp;#8211; The Frigid Doom</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>64</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14317</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 65 &amp;#8211; The Streets of Ank&amp;#8217;harel</title>
+			<description>Vox Machina EP 65 &amp;#8211; The Streets of Ank&amp;#8217;harel</description>
+			<guid>0786eed1-91dd-47d6-9515-75ef27f61851</guid>
+			<pubDate>Thu, 25 Aug 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/065_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 65 &amp;#8211; The Streets of Ank&amp;#8217;harel</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>65</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15587</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 66 &amp;#8211; A Traveler&amp;#8217;s Gamble</title>
+			<description>Vox Machina EP 66 &amp;#8211; A Traveler&amp;#8217;s Gamble</description>
+			<guid>bf89562d-ac40-4f3b-82a0-59f779688647</guid>
+			<pubDate>Thu, 8 Sep 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/066_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 66 &amp;#8211; A Traveler&amp;#8217;s Gamble</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>66</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15448</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 67 &amp;#8211; The Chase to Glintshore</title>
+			<description>Vox Machina EP 67 &amp;#8211; The Chase to Glintshore</description>
+			<guid>ab91e360-cd9e-42a1-8841-382375d0cb62</guid>
+			<pubDate>Thu, 15 Sep 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/067_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 67 &amp;#8211; The Chase to Glintshore</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>67</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13389</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 68 &amp;#8211; Cloak and Dagger</title>
+			<description>Vox Machina EP 68 &amp;#8211; Cloak and Dagger</description>
+			<guid>7ee0bb75-c1a5-4a2d-abcb-795b2184e56f</guid>
+			<pubDate>Thu, 22 Sep 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/068_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 68 &amp;#8211; Cloak and Dagger</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>68</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16462</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 69 &amp;#8211; Passed Through Fire</title>
+			<description>Vox Machina EP 69 &amp;#8211; Passed Through Fire</description>
+			<guid>59567aa9-a2a3-40c1-95c5-b29e55181486</guid>
+			<pubDate>Thu, 29 Sep 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/069_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 69 &amp;#8211; Passed Through Fire</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>69</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10707</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 70 &amp;#8211; Trust</title>
+			<description>Vox Machina EP 70 &amp;#8211; Trust</description>
+			<guid>d8cf67db-e72e-477f-b50e-f831f4ea71f0</guid>
+			<pubDate>Thu, 6 Oct 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/070_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 70 &amp;#8211; Trust</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>70</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14372</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 71 &amp;#8211; Vorugal</title>
+			<description>Vox Machina EP 71 &amp;#8211; Vorugal</description>
+			<guid>1650136d-4bae-4948-ae94-03bd82a58dcb</guid>
+			<pubDate>Thu, 13 Oct 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/071_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 71 &amp;#8211; Vorugal</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>71</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17545</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 72 &amp;#8211; The Elephant in the Room</title>
+			<description>Vox Machina EP 72 &amp;#8211; The Elephant in the Room</description>
+			<guid>b2dd2f74-9f5c-4287-9b0f-ba7d1c75984c</guid>
+			<pubDate>Thu, 20 Oct 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/072_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 72 &amp;#8211; The Elephant in the Room</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>72</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11210</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 73 &amp;#8211; The Coming Storm</title>
+			<description>Vox Machina EP 73 &amp;#8211; The Coming Storm</description>
+			<guid>9752dad6-61ee-4d8c-b261-85eeb17414dd</guid>
+			<pubDate>Thu, 27 Oct 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/073_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 73 &amp;#8211; The Coming Storm</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>73</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12278</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 74 &amp;#8211; Path of Brass</title>
+			<description>Vox Machina EP 74 &amp;#8211; Path of Brass</description>
+			<guid>7ec77ac4-f082-4d5f-aaaa-ff8a107c3f2f</guid>
+			<pubDate>Thu, 3 Nov 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/074_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 74 &amp;#8211; Path of Brass</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>74</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14417</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 75 &amp;#8211; Where the Cards Fall</title>
+			<description>Vox Machina EP 75 &amp;#8211; Where the Cards Fall</description>
+			<guid>fd3bb127-5c0c-49fb-930d-9a272bef0667</guid>
+			<pubDate>Thu, 10 Nov 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/075_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 75 &amp;#8211; Where the Cards Fall</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>75</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14260</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 76 &amp;#8211; Brawl in the Arches</title>
+			<description>Vox Machina EP 76 &amp;#8211; Brawl in the Arches</description>
+			<guid>7c218311-f79e-4c29-b7bf-86b65d4c659a</guid>
+			<pubDate>Thu, 17 Nov 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/076_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 76 &amp;#8211; Brawl in the Arches</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>76</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13922</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 77 &amp;#8211; Clash at Daxio</title>
+			<description>Vox Machina EP 77 &amp;#8211; Clash at Daxio</description>
+			<guid>3ef938d5-356f-4f73-9403-e5a3d51dcfa0</guid>
+			<pubDate>Thu, 1 Dec 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/077_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 77 &amp;#8211; Clash at Daxio</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>77</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15915</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 78 &amp;#8211; The Seige of Emon</title>
+			<description>Vox Machina EP 78 &amp;#8211; The Seige of Emon</description>
+			<guid>1665557f-2510-4cd6-8c14-2c565342888d</guid>
+			<pubDate>Thu, 8 Dec 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/078_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 78 &amp;#8211; The Seige of Emon</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>78</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15386</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 79 &amp;#8211; Thordak</title>
+			<description>Vox Machina EP 79 &amp;#8211; Thordak</description>
+			<guid>a12c12ea-2531-4ecc-aa29-fe726588c483</guid>
+			<pubDate>Thu, 15 Dec 2016 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/079_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 79 &amp;#8211; Thordak</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>79</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15999</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 80 &amp;#8211; Raishan</title>
+			<description>Vox Machina EP 80 &amp;#8211; Raishan</description>
+			<guid>ed3e851c-7b94-49f0-b6a1-18aa02fc5f71</guid>
+			<pubDate>Thu, 5 Jan 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/080_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 80 &amp;#8211; Raishan</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>80</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12210</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 81 &amp;#8211; What Lies Beneath the Surface</title>
+			<description>Vox Machina EP 81 &amp;#8211; What Lies Beneath the Surface</description>
+			<guid>ca13e226-3e6a-4f0d-a0ec-786d7c93a966</guid>
+			<pubDate>Thu, 12 Jan 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/081_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 81 &amp;#8211; What Lies Beneath the Surface</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>81</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14450</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 82 &amp;#8211; Deadly Echoes</title>
+			<description>Vox Machina EP 82 &amp;#8211; Deadly Echoes</description>
+			<guid>de2d1aa3-2546-44c6-a54c-544b7f5f20e5</guid>
+			<pubDate>Thu, 19 Jan 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/082_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 82 &amp;#8211; Deadly Echoes</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>82</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17313</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 83 &amp;#8211; The Deceiver&amp;#8217;s Stand</title>
+			<description>Vox Machina EP 83 &amp;#8211; The Deceiver&amp;#8217;s Stand</description>
+			<guid>3fa58410-0f0f-4731-ae11-50e9b86b7aa4</guid>
+			<pubDate>Thu, 26 Jan 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/083_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 83 &amp;#8211; The Deceiver&amp;#8217;s Stand</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>83</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15493</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 84 &amp;#8211; Loose Ends</title>
+			<description>Vox Machina EP 84 &amp;#8211; Loose Ends</description>
+			<guid>27216058-b8e7-4018-8440-2aeb41a9d093</guid>
+			<pubDate>Thu, 2 Feb 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/084_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 84 &amp;#8211; Loose Ends</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>84</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12833</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 85 &amp;#8211; A Bard&amp;#8217;s Lament</title>
+			<description>Vox Machina EP 85 &amp;#8211; A Bard&amp;#8217;s Lament</description>
+			<guid>56c44326-03b7-447a-bc94-4701d158fb7c</guid>
+			<pubDate>Thu, 9 Feb 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/085_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 85 &amp;#8211; A Bard&amp;#8217;s Lament</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>85</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12437</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 86 &amp;#8211; Daring Days</title>
+			<description>Vox Machina EP 86 &amp;#8211; Daring Days</description>
+			<guid>df2b5e1c-2b8e-4d1e-821a-cabaa320cb76</guid>
+			<pubDate>Thu, 16 Feb 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/086_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 86 &amp;#8211; Daring Days</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>86</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13888</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 87 &amp;#8211; Onward to Vesrah</title>
+			<description>Vox Machina EP 87 &amp;#8211; Onward to Vesrah</description>
+			<guid>9354480b-b7ca-4b55-a8d8-5675038644fd</guid>
+			<pubDate>Thu, 23 Feb 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/087_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 87 &amp;#8211; Onward to Vesrah</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>87</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12821</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 88 &amp;#8211; Tangled Depths</title>
+			<description>Vox Machina EP 88 &amp;#8211; Tangled Depths</description>
+			<guid>74315dfe-7f21-4544-87d1-c0993f2619f1</guid>
+			<pubDate>Thu, 2 Mar 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/088_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 88 &amp;#8211; Tangled Depths</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>88</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>19829</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 89 &amp;#8211; Curious Tides</title>
+			<description>Vox Machina EP 89 &amp;#8211; Curious Tides</description>
+			<guid>7f3177e5-2da6-4420-8074-4eef33cafc09</guid>
+			<pubDate>Thu, 9 Mar 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/089_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 89 &amp;#8211; Curious Tides</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>89</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12950</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 90 &amp;#8211; Voice of the Tempest</title>
+			<description>Vox Machina EP 90 &amp;#8211; Voice of the Tempest</description>
+			<guid>782305dd-cf62-4f95-bdb5-5e176e8faa6d</guid>
+			<pubDate>Thu, 16 Mar 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/090_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 90 &amp;#8211; Voice of the Tempest</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>90</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14917</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 91 &amp;#8211; Vox Machina Go to Hell</title>
+			<description>Vox Machina EP 91 &amp;#8211; Vox Machina Go to Hell</description>
+			<guid>31994dae-b86f-403b-bbb1-232d768fd463</guid>
+			<pubDate>Thu, 23 Mar 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/091_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 91 &amp;#8211; Vox Machina Go to Hell</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>91</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15147</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 92 &amp;#8211; Deals in the Dark</title>
+			<description>Vox Machina EP 92 &amp;#8211; Deals in the Dark</description>
+			<guid>6df7ac27-c319-4bec-ac58-8ffc830b93f1</guid>
+			<pubDate>Thu, 30 Mar 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/092_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 92 &amp;#8211; Deals in the Dark</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>92</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13149</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 93 &amp;#8211; Bats Out of Hell</title>
+			<description>Vox Machina EP 93 &amp;#8211; Bats Out of Hell</description>
+			<guid>1c3ea1b0-e412-4938-885e-4a9f27fddace</guid>
+			<pubDate>Thu, 6 Apr 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/093_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 93 &amp;#8211; Bats Out of Hell</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>93</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16166</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 94 &amp;#8211; Jugs and Rods</title>
+			<description>Vox Machina EP 94 &amp;#8211; Jugs and Rods</description>
+			<guid>86d5210b-b70a-4d5e-9685-20fdaf824ca9</guid>
+			<pubDate>Thu, 13 Apr 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/094_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 94 &amp;#8211; Jugs and Rods</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>94</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15812</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 95 &amp;#8211; One Year Later&amp;#8230;</title>
+			<description>Vox Machina EP 95 &amp;#8211; One Year Later&amp;#8230;</description>
+			<guid>432a70f5-a8d4-4694-a383-e655341ccef2</guid>
+			<pubDate>Thu, 27 Apr 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/095_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 95 &amp;#8211; One Year Later&amp;#8230;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>95</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14735</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 96 &amp;#8211; Family Matters</title>
+			<description>Vox Machina EP 96 &amp;#8211; Family Matters</description>
+			<guid>a765714c-ca9f-4549-bbcf-e5838c32a2cd</guid>
+			<pubDate>Thu, 4 May 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/096_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 96 &amp;#8211; Family Matters</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>96</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17328</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 97 &amp;#8211; Taryon My Wayward Son</title>
+			<description>Vox Machina EP 97 &amp;#8211; Taryon My Wayward Son</description>
+			<guid>9002794d-0de3-42be-91c1-6ba1f67daa39</guid>
+			<pubDate>Thu, 11 May 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/097_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 97 &amp;#8211; Taryon My Wayward Son</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>97</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15202</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 98 &amp;#8211; The Mines of the Many</title>
+			<description>Vox Machina EP 98 &amp;#8211; The Mines of the Many</description>
+			<guid>b8d05dae-a1a6-4972-8dc6-8cf6f0baa22b</guid>
+			<pubDate>Thu, 18 May 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/098_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 98 &amp;#8211; The Mines of the Many</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>98</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16237</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 99 &amp;#8211; Masquerade</title>
+			<description>Vox Machina EP 99 &amp;#8211; Masquerade</description>
+			<guid>c0e4d814-b8dc-4cdb-b343-d391b9c2a50a</guid>
+			<pubDate>Thu, 1 Jun 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/099_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 99 &amp;#8211; Masquerade</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>99</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14488</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 100 &amp;#8211; Unfinished Business</title>
+			<description>Vox Machina EP 100 &amp;#8211; Unfinished Business</description>
+			<guid>e4c74ff5-916b-4d64-8d0c-0911389dfe1e</guid>
+			<pubDate>Thu, 8 Jun 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/100_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 100 &amp;#8211; Unfinished Business</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>100</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>20796</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 101 &amp;#8211; Thar Amphala</title>
+			<description>Vox Machina EP 101 &amp;#8211; Thar Amphala</description>
+			<guid>b65504a7-dcfa-40ba-9f75-34b54fbb35c8</guid>
+			<pubDate>Thu, 15 Jun 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/101_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 101 &amp;#8211; Thar Amphala</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>101</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12685</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 102 &amp;#8211; Race to the Tower</title>
+			<description>Vox Machina EP 102 &amp;#8211; Race to the Tower</description>
+			<guid>48caae0f-0c06-4254-99e3-abe884362763</guid>
+			<pubDate>Thu, 22 Jun 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/102_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 102 &amp;#8211; Race to the Tower</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>102</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16339</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 103 &amp;#8211; The Fate-Touched</title>
+			<description>Vox Machina EP 103 &amp;#8211; The Fate-Touched</description>
+			<guid>544b560e-1694-4505-93c2-dadd2283fb0f</guid>
+			<pubDate>Thu, 29 Jun 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/103_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 103 &amp;#8211; The Fate-Touched</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>103</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>12791</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 104 &amp;#8211; Elysium</title>
+			<description>Vox Machina EP 104 &amp;#8211; Elysium</description>
+			<guid>44e06dee-9af8-4651-a511-fcc39787fba7</guid>
+			<pubDate>Thu, 6 Jul 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/104_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 104 &amp;#8211; Elysium</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>104</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>11276</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 105 &amp;#8211; The Fear of Isolation</title>
+			<description>Vox Machina EP 105 &amp;#8211; The Fear of Isolation</description>
+			<guid>53b1c96a-8c52-4e8f-975a-9318667417bf</guid>
+			<pubDate>Thu, 13 Jul 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/105_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 105 &amp;#8211; The Fear of Isolation</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>105</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14899</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 106 &amp;#8211; The Endless Atheneeum</title>
+			<description>Vox Machina EP 106 &amp;#8211; The Endless Atheneeum</description>
+			<guid>506f2b7c-bff1-4ca6-a817-98ca525f1a40</guid>
+			<pubDate>Thu, 27 Jul 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/106_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 106 &amp;#8211; The Endless Atheneeum</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>106</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13803</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 107 &amp;#8211; Scaldseat</title>
+			<description>Vox Machina EP 107 &amp;#8211; Scaldseat</description>
+			<guid>80112d78-f6bb-4336-be2a-d03fac1edf8b</guid>
+			<pubDate>Thu, 3 Aug 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/107_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 107 &amp;#8211; Scaldseat</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>107</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14245</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 108 &amp;#8211; The Core Anvil</title>
+			<description>Vox Machina EP 108 &amp;#8211; The Core Anvil</description>
+			<guid>29d4e404-b072-48d9-be34-e1a0aa4b3dbb</guid>
+			<pubDate>Thu, 10 Aug 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/108_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 108 &amp;#8211; The Core Anvil</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>108</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16305</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 109 &amp;#8211; The Ominous March</title>
+			<description>Vox Machina EP 109 &amp;#8211; The Ominous March</description>
+			<guid>ecaf5eeb-0791-415b-9372-d696670b8281</guid>
+			<pubDate>Thu, 17 Aug 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/109_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 109 &amp;#8211; The Ominous March</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>109</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13461</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 110 &amp;#8211; The Climb Within</title>
+			<description>Vox Machina EP 110 &amp;#8211; The Climb Within</description>
+			<guid>c3287229-e35f-4ca7-abc7-cd2297486f76</guid>
+			<pubDate>Thu, 24 Aug 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/110_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 110 &amp;#8211; The Climb Within</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>110</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>13525</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 111 &amp;#8211; Shadows of Thomara</title>
+			<description>Vox Machina EP 111 &amp;#8211; Shadows of Thomara</description>
+			<guid>32a613c2-f97b-4ef5-aef0-c83a530de824</guid>
+			<pubDate>Thu, 14 Sep 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/111_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 111 &amp;#8211; Shadows of Thomara</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>111</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16251</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 112 &amp;#8211; Dark Dealings</title>
+			<description>Vox Machina EP 112 &amp;#8211; Dark Dealings</description>
+			<guid>9ded5d46-474b-4ff3-9291-990f7c077363</guid>
+			<pubDate>Thu, 21 Sep 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/112_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 112 &amp;#8211; Dark Dealings</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>112</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15009</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 113 &amp;#8211; The Final Ascent</title>
+			<description>Vox Machina EP 113 &amp;#8211; The Final Ascent</description>
+			<guid>2e1dd618-c299-4c18-85d8-c3beeb629175</guid>
+			<pubDate>Thu, 28 Sep 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/113_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 113 &amp;#8211; The Final Ascent</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>113</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>18141</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 114 &amp;#8211; Vecna, The Ascended</title>
+			<description>Vox Machina EP 114 &amp;#8211; Vecna, The Ascended</description>
+			<guid>f0dcb578-3f6c-4c1a-9f77-bbc2a9204380</guid>
+			<pubDate>Thu, 5 Oct 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/114_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 114 &amp;#8211; Vecna, The Ascended</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>114</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>20686</itunes:duration>
+		</item>
+		<item>
+			<title>Vox Machina EP 115 &amp;#8211; The Chapter Closes</title>
+			<description>Vox Machina EP 115 &amp;#8211; The Chapter Closes</description>
+			<guid>fbefaaf8-590c-458e-bc8f-e1f706079853</guid>
+			<pubDate>Thu, 12 Oct 2017 19:00:00 GMT</pubDate>
+			<enclosure url="http://traffic.libsyn.com/critrole/115_CR_podcast_44_128.mp3" type="audio/x-m4a"/>
+			<itunes:summary>Vox Machina EP 115 &amp;#8211; The Chapter Closes</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>115</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>16450</itunes:duration>
+		</item>
+	</channel>
 </rss>
