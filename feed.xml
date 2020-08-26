@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <link>https://critrole.com</link>
+        <language>en-us</language>
+        <copyright><![CDATA[Critical Role]]></copyright>
+        <image>
+            <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg</url>
+            <title>Critical Role</title>
+            <link>https://critrole.com</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Critical Role</itunes:name>
+            <itunes:email>info@critrole.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Leisure">
+            <itunes:category text="Games"/>
+        </itunes:category>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1428610/bfff4761a218248e.jpeg"/>
+        <atom:link href="http://www.YourSite.com/feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
+        <title>Verbose title of the podcast</title>
+        <itunes:author>Critical Role</itunes:author>
+        <description>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons &amp;amp; Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</description>
+        <itunes:summary>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons &amp;amp; Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</itunes:summary>
+        <itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
+        <lastBuildDate>Wed, 26 Aug 2020 20:13:48 GMT</lastBuildDate>
+        <item>
+            <title>Verbose title of the episode</title>
+            <description>Verbose description of the episode.</description>
+            <itunes:summary>Duplicate of above verbose description.</itunes:summary>
+            <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
+            <guid>http://www.YourSite.com/FILE.EXT</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>
